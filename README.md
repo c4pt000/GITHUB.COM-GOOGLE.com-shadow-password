@@ -1,4 +1,4 @@
-# shadow-password
+# shadow-password / search within repos for text
 
 # Proposal for clipboard select and reveal for google "App Password" and github PAT (Personal Access Tokens)
 
