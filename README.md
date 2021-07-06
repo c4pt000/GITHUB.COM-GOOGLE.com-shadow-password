@@ -1,4 +1,6 @@
-# shadow-password / search within (your) current repos for text
+# shadow-password 
+
+(by default the generated password is hidden but can be copied with the clipboard mouse button) the eyeball will actually show the generated password in plainsight (think "lastpass" hidden generated password)
 
 # Proposal for clipboard select and reveal for google "App Password" and github PAT (Personal Access Tokens)
 
