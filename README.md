@@ -1,5 +1,7 @@
 # shadow-password 
 
+![s1](https://raw.githubusercontent.com/c4pt000/GITHUB.COM-GOOGLE.com-shadow-password/main/eye.png)
+
 (by default the generated password is hidden but can be copied with the clipboard mouse button) the eyeball will actually show the generated password in plainsight (think "lastpass" hidden generated password)
 
 ![s1](https://i.imgur.com/Uh4c389.png)
