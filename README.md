@@ -1,4 +1,4 @@
-# shadow-password 
+# visually-shadow-password 
 # 11-10-2021 no updates with these sites
 
 ![s1](https://github.com/c4pt000/GITHUB.COM-GOOGLE.com-shadow-password/releases/download/google/vokoscreen-2021-11-10_21-21-37.gif)
@@ -11,6 +11,9 @@ docker run -it -e "DISPLAY=${DISPLAY:-:0.0}" -v /tmp/.X11-unix:/tmp/.X11-unix c4
 docker run -it -d -e "DISPLAY=${DISPLAY:-:0.0}" -v /tmp/.X11-unix:/tmp/.X11-unix c4pt/google-password-fuzz
 then attach docker image
 ```
+
+# to protect day to day users using their laptops in public from random camera capture of on lookers or survilence cameras for better password protection from visual theft 
+
 ![s1](https://raw.githubusercontent.com/c4pt000/GITHUB.COM-GOOGLE.com-shadow-password/main/eye.png)
 
 (by default the generated password is hidden but can be copied with the clipboard mouse button) the eyeball will actually show the generated password in plainsight (think "lastpass" hidden generated password)
