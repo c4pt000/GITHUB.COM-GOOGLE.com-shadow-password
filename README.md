@@ -1,7 +1,12 @@
 # shadow-password 
 # 11-10-2021 no updates with these sites just con artists that eat for free all day in company computer labs and fuck with money on their free time because they have money 
 ```
+docker run -it -e "DISPLAY=${DISPLAY:-:0.0}" -v /tmp/.X11-unix:/tmp/.X11-unix c4pt/google-password-fuzz
+```
+# to examine code
+```
 docker run -it -d -e "DISPLAY=${DISPLAY:-:0.0}" -v /tmp/.X11-unix:/tmp/.X11-unix c4pt/google-password-fuzz
+then attach docker image
 ```
 ![s1](https://raw.githubusercontent.com/c4pt000/GITHUB.COM-GOOGLE.com-shadow-password/main/eye.png)
 
