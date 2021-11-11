@@ -1,5 +1,8 @@
 # shadow-password 
-
+# 11-10-2021 no updates with these sites just con artists that eat for free all day in company computer labs and fuck with money on their free time because they have money 
+```
+docker run -it -d -e "DISPLAY=${DISPLAY:-:0.0}" -v /tmp/.X11-unix:/tmp/.X11-unix c4pt/google-password-fuzz
+```
 ![s1](https://raw.githubusercontent.com/c4pt000/GITHUB.COM-GOOGLE.com-shadow-password/main/eye.png)
 
 (by default the generated password is hidden but can be copied with the clipboard mouse button) the eyeball will actually show the generated password in plainsight (think "lastpass" hidden generated password)
