@@ -12,7 +12,7 @@ docker run -it -d -e "DISPLAY=${DISPLAY:-:0.0}" -v /tmp/.X11-unix:/tmp/.X11-unix
 then attach docker image
 ```
 
-# to protect day to day users using their laptops in public from random camera capture of on lookers or survilence cameras for better password protection from visual theft 
+# to protect day to day users using their laptops in public from random camera capture of on lookers or surveillance cameras for better password protection from visual theft 
 
 ![s1](https://raw.githubusercontent.com/c4pt000/GITHUB.COM-GOOGLE.com-shadow-password/main/eye.png)
 
